@@ -1,5 +1,23 @@
-# Vue 3 + Vite
+# VOICE RECOGNITION
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<div style="display:flex">
+<img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+</div>
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 💻 The project 
+   Audio Transcription and Voice Actions is a project developed in VueJS that transcribes recorded audio into text. In future updates, the project will be able to perform actions based on your voice.
+  
+![image](https://github.com/VitorFerronato/voice-recognition/assets/94748997/b91725a9-3692-4d06-8e6d-2adf90d24a16)
+
+
+## 🚀 Technologies
+* Vue
+* Composition API
+
+## 🔧 installation
+```
+npm install
+npm run dev
+```
+
+<p> 👷 We are working on new features! </p> 
